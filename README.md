@@ -22,7 +22,8 @@ Automação de infraestrutura, observabilidade, qualidade da visão dos dados e 
 
 ### 📫 Como falar comigo
 
-- Me mande uma DM aqui no GitHub
+- 💼 LinkedIn: [linkedin.com/in/aquinoigor](https://www.linkedin.com/in/aquinoigor/)
+- 💬 Ou me mande uma DM aqui no GitHub
 
 ---
 
