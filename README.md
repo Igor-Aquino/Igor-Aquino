@@ -1,30 +1,30 @@
-#  Olá, eu sou o Igor — @Igor-Aquino
+# 👋 Olá, eu sou o Igor — @Igor-Aquino
 
-Meu objetivo é direto: **facilitar a vida de quem gere a operação com a melhor entrega ao cliente**, transformando dados dispersos em visão clara para **minimizar impactos** e **reduzir o tempo de resposta a incidentes**.
+Atuo na interseção entre **redes, cibersegurança e monitoramento**. Meu objetivo é direto: **facilitar a vida de quem gere a operação**, transformando dados dispersos em visão clara para **minimizar impactos** e **reduzir o tempo de resposta a incidentes**.
 
 ---
 
-###  No que eu trabalho e acredito
+### 🎯 No que eu trabalho e acredito
 
--  **Gestão da tecnologia**
--  **Eficiência operacional** — menos impacto, resposta mais rápida, gestão mais inteligente
--  **Soluções que facilitam a vida** de quem opera e gere o dia a dia
--  **Cyber Security** — construir um ambiente digital mais seguro
--  **Gestão de redes** — visibilidade e controle real da infraestrutura
--  **Monitoramento & observabilidade** — dados que viram decisão, não ruído
+- 🔐 **Cyber Security** — construir um ambiente digital mais seguro
+- 🌐 **Gestão de redes** — visibilidade e controle real da infraestrutura
+- 📊 **Monitoramento & observabilidade** — dados que viram decisão, não ruído
+- ⚡ **Eficiência operacional** — menos impacto, resposta mais rápida, gestão mais inteligente
+- 🧩 **Soluções que facilitam a vida** de quem opera e gere o dia a dia
 
-###  Em destaque
+### 🛠️ Em destaque
 
-- **[zabbix](https://github.com/Igor-Aquino/zabbix)** — coleta de VLAN e subnet via Zabbix usando personalização: SNMP, Low-Level Discovery e scripts. Um material prático para quem quer mais visibilidade da rede.
+- **[Networking / Zabbix](https://github.com/Igor-Aquino/Networking/tree/main/zabbix)** — coleta de VLAN e subnet via Zabbix usando personalização: SNMP, Low-Level Discovery e scripts.
+- **[CyberSecurity](https://github.com/Igor-Aquino/CyberSecurity)** — documentação técnica de ESET PROTECT e integração Cortex XDR + Zabbix.
 
-###  Interesses
+### 🌱 Interesses
 
 Automação de infraestrutura, observabilidade, qualidade da visão dos dados e tudo que aumente a **eficiência e a qualidade da gestão** da operação.
 
-###  Como falar comigo
+### 📫 Como falar comigo
 
--  LinkedIn: [linkedin.com/in/aquinoigor](https://www.linkedin.com/in/aquinoigor/)
--  Ou me mande uma DM aqui no GitHub
+- 💼 LinkedIn: [linkedin.com/in/aquinoigor](https://www.linkedin.com/in/aquinoigor/)
+- 💬 Ou me mande uma DM aqui no GitHub
 
 ---
 
